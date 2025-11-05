@@ -73,3 +73,84 @@ Collaboration Tools like Git, Jenkins, Docker, Kubernetes, and Terraform.
 ✅ Fewer failures and quick recovery
 ✅ Increased efficiency through automation
 
+
+Software Development Models (Before DevOps)
+===================================
+Before DevOps practices were introduced, organizations followed traditional software development models such as the Waterfall Model and Agile Methodology.
+Both played an important role in shaping how software was built, tested, and delivered — but they also had limitations that DevOps aimed to solve.
+
+💧 Waterfall Model
+
+The Waterfall Model is a sequential software development process where each phase must be completed before moving to the next.
+It is called “Waterfall” because progress flows in one direction — downward — through several phases.
+
+🔹 Process Flow:
+Requirements → Design → Implementation → Verification → Maintenance
+
+⚙️ Key Features:
+
+Follows a step-by-step execution process.
+
+Each phase depends on the output of the previous phase.
+
+No overlapping between stages.
+
+Works well for small projects with clearly defined requirements.
+
+❌ Limitations:
+
+Difficult to make changes once the process starts.
+
+Testing happens late, after full implementation.
+
+Slower delivery — not suitable for modern, fast-changing requirements.
+
+Lack of collaboration between teams.
+
+⚡ Agile Model
+
+Agile is a modern approach that focuses on iterative development and continuous feedback.
+The project is divided into small, manageable units (sprints) — each delivering a working piece of software to the customer.
+
+🔹 Key Principles:
+
+Delivers small increments of working software.
+
+Encourages collaboration between cross-functional teams.
+
+Continuous testing and feedback improve product quality.
+
+Fixed timeline, but flexible scope — requirements can evolve.
+
+🔹 Agile Workflow:
+Plan → Develop → Test → Review → Deliver → Repeat
+
+✅ Advantages:
+
+Faster feedback from customers.
+
+Easier to adapt to changing requirements.
+
+Continuous improvement through short iterations.
+
+❌ Limitation:
+
+Although development and testing are faster,
+deployment to production is still manual and time-consuming.
+
+Lack of automation between Dev and Ops teams — causing release delays.
+
+🔄 Transition to DevOps
+
+DevOps evolved to overcome Agile’s deployment limitation by:
+
+Automating build, test, and deployment pipelines.
+
+Integrating development, operations, and QA teams.
+
+Enabling continuous delivery and continuous monitoring.
+
+DevOps = Agile + Automation + Continuous Delivery
+
+
+
