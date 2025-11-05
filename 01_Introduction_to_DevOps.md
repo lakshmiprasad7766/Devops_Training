@@ -79,7 +79,7 @@ Software Development Models (Before DevOps)
 Before DevOps practices were introduced, organizations followed traditional software development models such as the Waterfall Model and Agile Methodology.
 Both played an important role in shaping how software was built, tested, and delivered — but they also had limitations that DevOps aimed to solve.
 
-💧 Waterfall Model
+💧  ##Waterfall Model
 
 The Waterfall Model is a sequential software development process where each phase must be completed before moving to the next.
 It is called “Waterfall” because progress flows in one direction — downward — through several phases.
@@ -107,7 +107,7 @@ Slower delivery — not suitable for modern, fast-changing requirements.
 
 Lack of collaboration between teams.
 
-⚡ Agile Model
+⚡ ## Agile Model
 
 Agile is a modern approach that focuses on iterative development and continuous feedback.
 The project is divided into small, manageable units (sprints) — each delivering a working piece of software to the customer.
