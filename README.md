@@ -1,8 +1,6 @@
 # Devops_Training
-This is Devops work from Abhishek Tutorials
+This is Devops work from Cloud Learning
 
-
-Different IP addresses (Public IP, Private IP & Elastic IP)
 
 
 
